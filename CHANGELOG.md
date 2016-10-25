@@ -3,13 +3,14 @@ All notable changes to this project will be documented in this file.
 Adheres to [Semantic Versioning](http://semver.org/).
 
 ---
-## 4.4.0
+## 4.3.1
 
 * TBD
 
 ##### Features
 
 ##### Bug Fixes
+* Changed default form type to textarea for textarea fields.  This will enable users to add new lines to default.
 
 ## [4.3.0](https://github.com/ngageoint/mage-server/releases/tag/v4.3.0) (09-22-2016)
 
